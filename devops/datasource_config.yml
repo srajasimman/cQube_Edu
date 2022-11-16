@@ -1,14 +1,13 @@
 ---
-crc: true
-attendance: true
-infra: true
-diksha: true
-telemetry: true
-udise: true
-pat: true
-composite: true
-progresscard: true
-teacher_attendance: true
-data_replay: true
-sat: true
-
+crc: false
+attendance: false
+infra: false
+diksha: false
+telemetry: false
+udise: false
+pat: false
+composite: false
+progresscard: false
+teacher_attendance: false
+data_replay: false
+sat: false
